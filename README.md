@@ -2,6 +2,7 @@
 
 This sample demonstrates how to use [MSAL React](https://www.npmjs.com/package/@azure/msal-react) to login, logout, conditionally render components to authenticated users, and acquire an access token for a protected resource such as Microsoft Graph.
 
+.
 ## Features
 
 This sample demonstrates the following MSAL React concepts:
